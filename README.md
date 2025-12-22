@@ -1,16 +1,16 @@
 # Hello World 👋  
 I'm Parvez Al Mumin
 
-> A Computer Science student, future developer, and lifelong learner who believes growth is a continuous process — just like software updates.
+> A Computer Science student, future developer, and lifelong learner who believes growth is a continuous process, just like software updates.
 
 ---
 
 ##  About Me
 
-- 🎓 Currently pursuing **BSc in CSE** at **Uttara University**
-- 💻 Actively developing myself to become a **professional developer**
-- 🚀 Focused on learning by building, breaking, and fixing things
-- 🧠 Long-term goal:  
+-  Currently pursuing **BSc in CSE** at **Uttara University**
+-  Actively developing myself to become a **professional developer**
+-  Focused on learning by building, breaking and fixing things
+-  Long-term goal:  
   Not only to work in development, but also to **help others become developers**
 
 I believe real learning starts when tutorials end and errors begin.
@@ -35,7 +35,7 @@ I believe real learning starts when tutorials end and errors begin.
 
 ## ⚠️ Disclaimer
 
-This profile is under construction —  
+This profile is under construction,
 just like my skills.
 
 Some things may look unfinished,  
