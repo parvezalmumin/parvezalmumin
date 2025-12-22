@@ -4,7 +4,7 @@ I'm Parvez Al Mumin
 > A Computer Science student, future developer, and lifelong learner who believes growth is a continuous process, just like software updates.
 
 ---
-<p align="center >
+<p align="center">
   <img src="a0a70443-d5b5-4c44-b1b9-58d45f6de998.jpg" alt="Cartoon" width="400" height="300">
 </p>
 
