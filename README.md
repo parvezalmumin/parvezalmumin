@@ -1,7 +1,5 @@
 # Hello World 👋  
-I'm Parvez Al Mumin
-
-> A Computer Science student, future developer and lifelong learner who believes growth is a continuous process, just like software updates.
+I'm Parvez Al Mumin. A Computer Science student, future developer and lifelong learner who believes growth is a continuous process, just like software updates.
 
 ---
 <p align="center">
