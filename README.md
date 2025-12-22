@@ -5,7 +5,7 @@ I'm Parvez Al Mumin
 
 ---
 
-## 👨‍🎓 About Me
+##  About Me
 
 - 🎓 Currently pursuing **BSc in CSE** at **Uttara University**
 - 💻 Actively developing myself to become a **professional developer**
@@ -25,7 +25,7 @@ I believe real learning starts when tutorials end and errors begin.
 
 ---
 
-## 🌱 Philosophy
+##  Philosophy
 
 > First, develop yourself.  
 > Then, help others develop themselves.  
